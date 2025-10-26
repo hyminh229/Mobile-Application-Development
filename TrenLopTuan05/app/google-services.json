@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319282447297",
+    "project_id": "trenloptuan05firebase",
+    "storage_bucket": "trenloptuan05firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319282447297:android:9697ceeadcf9f64fcd2540",
+        "android_client_info": {
+          "package_name": "hy.uth.trenloptuan05firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFq3FdkH7dKqu9mAyjzhci-8aHNcHET-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
