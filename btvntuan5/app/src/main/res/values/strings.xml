@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">btvntuan5</string>
+    <string name="default_web_client_id" translatable="false">1:972449800167:android:9f2fe56b2d43dadee32742</string>
+
+    <!-- <string name="default_web_client_id" translatable="false">
+        1234567890-abcdefghijklmnopqrstuvwxyz.apps.googleusercontent.com
+    </string> -->
+</resources>

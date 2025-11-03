@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972449800167",
+    "project_id": "btvntuan5",
+    "storage_bucket": "btvntuan5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972449800167:android:9f2fe56b2d43dadee32742",
+        "android_client_info": {
+          "package_name": "hy.uth.btvntuan5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpfAanBwL3I3KXI3tBznsWBApbIeHkxN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
